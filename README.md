@@ -1,3 +1,6 @@
-# kaggle
+# DATA_ALALYSIS
 
-kaggle에서 공부한것들 정리 (데이터분석스터디)
+데이터분석스터디에서 공부하는 것들 
+- kaggle
+- dacon
+- 
